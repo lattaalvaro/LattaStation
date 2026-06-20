@@ -32,8 +32,7 @@
 
 | Inicio | Biblioteca | Logros | Ajustes |
 |--------|-----------|--------|---------|
-| ![Inicio]([)](https://github.com/lattaalvaro/LattaStation/blob/main/Assets/Screenshot_20260620_021834_LattaStation.png) | ![Biblioteca](screenshots/library.jpg) | ![Logros](screenshots/achievements.jpg) | ![Ajustes](screenshots/settings.jpg) |
-
+| ![Inicio](Assets/Screenshot_20260620_021834_LattaStation.png) | ![Biblioteca](Assets/Screenshot_20260620_021905_LattaStation.png) | ![Logros](Assets/Screenshot_20260620_021910_LattaStation.png) | ![Ajustes](Assets/Screenshot_20260620_021937_LattaStation.png) |
 ---
 
 ## 📥 Instalación
