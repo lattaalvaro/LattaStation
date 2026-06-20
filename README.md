@@ -32,7 +32,7 @@
 
 | Inicio | Biblioteca | Logros | Ajustes |
 |--------|-----------|--------|---------|
-| ![Inicio](screenshots/home.jpg) | ![Biblioteca](screenshots/library.jpg) | ![Logros](screenshots/achievements.jpg) | ![Ajustes](screenshots/settings.jpg) |
+| ![Inicio]([)](https://github.com/lattaalvaro/LattaStation/blob/main/Assets/Screenshot_20260620_021834_LattaStation.png) | ![Biblioteca](screenshots/library.jpg) | ![Logros](screenshots/achievements.jpg) | ![Ajustes](screenshots/settings.jpg) |
 
 ---
 
