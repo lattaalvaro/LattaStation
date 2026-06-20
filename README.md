@@ -32,7 +32,7 @@
 
 | Inicio | Biblioteca | Logros | Ajustes |
 |--------|-----------|--------|---------|
-| [![Inicio](Assets/Screenshot_20260620_021834_LattaStation.png)](Assets/Screenshot_20260620_021834_LattaStation.png) | [![Biblioteca](Assets/Screenshot_20260620_021905_LattaStation.png)](Assets/Screenshot_20260620_021905_LattaStation.png) | [![Logros](Assets/Screenshot_20260620_021910_LattaStation.png)](Assets/Screenshot_20260620_021910_LattaStation.png) | [![Ajustes](Assets/Screenshot_20260620_021937_LattaStation.png)](Assets/Screenshot_20260620_021937_LattaStation.png) |
+| ![Inicio](Assets/Screenshot_20260620_021834_LattaStation.png) | ![Biblioteca](Assets/Screenshot_20260620_021905_LattaStation.png) | ![Logros](Assets/Screenshot_20260620_021910_LattaStation.png) | ![Ajustes](Assets/Screenshot_20260620_021937_LattaStation.png) |
 
 ---
 
