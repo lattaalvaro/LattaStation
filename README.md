@@ -1,0 +1,2 @@
+# LattaStation
+Emulador PS1
