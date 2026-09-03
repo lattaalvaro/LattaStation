@@ -17,14 +17,26 @@
 
 ## ✨ Características
 
-- 🏠 **Pantalla de inicio inteligente** — acceso rápido a tus juegos más recientes y más jugados
-- 📚 **Biblioteca personal** — organiza tus ROMs por nombre, fecha, tiempo jugado o tamaño
-- 🏆 **Sistema de logros** — desbloquea metas como *Primer arranque*, *Maratonista*, *Leyenda PS1* y más
-- 🎨 **Múltiples temas** — Oscuro, Claro, Material You, Retro PlayStation y AMOLED
-- 🖥️ **Modos de pantalla** — 4:3, Estirar, Entero, Ancho y Alto
-- 🔬 **Resolución interna GPU escalable** — desde 1× (320×240) hasta 6× (1920×1440)
-- ☁️ **Sincronización en la nube** — copia de seguridad de saves, memory cards y ajustes
-- ⭐ **Favoritos** — marca los juegos que más quieres tener a mano
+- 🏠 **Pantalla de inicio inteligente** — acceso rápido a tus juegos más recientes y más jugados. La app siempre abre en Inicio (no reanuda sola la partida anterior). Hero estilo PS Store, sin bordes negros.
+- 📚 **Biblioteca personal** — organiza tus ROMs por nombre, fecha, tiempo o peso; búsqueda, favoritos, vista cuadrícula y lista.
+- ⭐ **Favoritos** — marca los juegos que más quieres tener a mano.
+- 🧭 **Navegación flotante** — barra inferior redondeada al estilo One UI, con indicador animado.
+- 🏆 **Sistema de logros** — desbloquea metas como Primer arranque, Maratonista, Leyenda PS1 y más.
+- 🎨 **Múltiples temas** — Oscuro, Claro, Material You, Retro PlayStation y AMOLED.
+- 🖥️ **Modos de pantalla** — 4:3, Estirar, Entero, Ancho y Alto.
+- 🔬 **Resolución interna GPU** — de 1× (320×240) hasta 8× (2560×1920).
+- 🎮 **Renderizador hardware** — OpenGL ES 3 para máxima calidad, con fallback a software.
+- ✨ **Mejoras gráficas** — True Color, filtro de texturas, PGXP, sin dithering, sin interlacing, chroma smoothing, GPU multi-hilo y 60 Hz NTSC.
+- 🎯 **Mando en pantalla DualShock** — stick analógico por defecto y cruceta con un toque (botón entre SELECT y START).
+- 🕹️ **Mando físico** — compatible con cualquier gamepad Bluetooth o USB.
+- 🎛️ **Controles a tu medida** — oculta el overlay o mueve los botones y guarda la posición.
+- ⚡ **Menú rápido en partida** — guardar, cargar, resolución, pantalla, controles y salir a Inicio (sin cerrar la app).
+- ☁️ **Sincronización en la nube** — copia de seguridad de guardados, tarjetas de memoria y ajustes.
+- 📂 **Escáner** de ISO/BIN/CUE/CHD/PBP con detección de nombre, región y serial.
+- 🖼️ **Carátulas y metadatos** desde TheGamesDB, ScreenScraper e IGDB.
+- 📊 **Estadísticas** con gráficas modernas (tiempo semanal/mensual, juego favorito…).
+- 📱 **Widgets** de inicio (continuar jugando + estadísticas rápidas).
+- 🎬 **Splash y animaciones** fluidas: fade, escala, parallax, transiciones de navegación.
 
 ---
 
