@@ -17,7 +17,7 @@
 
 ## ✨ Características
 
-- 🏠 **Pantalla de inicio inteligente** — acceso rápido a tus juegos más recientes y más jugados. La app siempre abre en Inicio (no reanuda sola la partida anterior). Hero estilo PS Store, sin bordes negros.
+- 🏠 **Pantalla de inicio inteligente** — acceso rápido a tus juegos más recientes y más jugados. 
 - 📚 **Biblioteca personal** — organiza tus ROMs por nombre, fecha, tiempo o peso; búsqueda, favoritos, vista cuadrícula y lista.
 - ⭐ **Favoritos** — marca los juegos que más quieres tener a mano.
 - 🧭 **Navegación flotante** — barra inferior redondeada al estilo One UI, con indicador animado.
