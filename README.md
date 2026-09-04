@@ -43,7 +43,7 @@
 ## 📸 Capturas de pantalla
 
 | Inicio | Biblioteca | Logros | Ajustes |
-|--------|-----------|--------|---------|
+|--------|---------|--------|---------|
 | ![Inicio](asset/Inicio.png) | ![Biblioteca](asset/Biblioteca.png) | ![Logros](asset/Logros.png) | ![Ajustes](asset/Ajuste.png) |
 
 ---
